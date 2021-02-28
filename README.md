@@ -11,4 +11,4 @@
 - ⚡ Fun fact: I like **cooking** but actually not a good cooker😅
 
 ## Github Status
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=witheunjin&title_color=1654c1ff&&text_color=fe492dff&show_icons=true&icon_color=ffab40)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=witheunjin)](https://github.com/anuraghazra/github-readme-stats)
