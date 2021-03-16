@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Introduction 
-👩 : "I am Eunjin Lee. Welcome to my github page."
+👩 : "I am **Eunjin Lee**. Welcome to my github page."
 
 - 🔭 I’m currently a **senior** student majoring in **Software Engineering**
 - 🌱 I’m interested in **Android(in Kotlin)**, **Algorithms(C++, Python3)**, and **Machine Learning**
