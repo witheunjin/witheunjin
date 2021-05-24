@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently a **senior** student majoring in **Software Engineering**.
 - 🌱 I’m interested in **Android(in Kotlin)**, **Algorithms(C++, Python3)**, and **Machine Learning**.
-- 🤓 I'm studying **Recommendation System** now.(like.. *How to execute recommendation system at the edge effectively/efficiently*)
+- 🤓 I'm studying **Recommendation System** now.(especially **Federated Learning**)
 - 💼 I'm working at **AI Laboratory** of Soongsil University as **a Student Researcher**.
 - 📫 My **E-mail** is always open 👉 sue9897@naver.com
 - 👐 Wanna know about me? Here is the Link of my other personal pages.
