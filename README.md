@@ -3,7 +3,7 @@
 ## Introduction 
 👩 : "I am **Eunjin Lee**. Welcome to my github page."
 
-- 🔭 ~~I’m currently a **senior** student majoring in **Software Engineering**.~~(Graduate)
+- 🔭 ~~I’m currently a senior student majoring in Software Engineering.~~ **(Graduate)**
 - 🌱 I’m interested in **Android(in Kotlin)**, **Algorithms(C++, Python3)**, and **Machine Learning**.
 - 🤓 I'm studying **Recommendation System** now.(especially **Federated Learning**)
 - 💼 I'm working at **AI Laboratory** of Soongsil University as **a Student Researcher**.
