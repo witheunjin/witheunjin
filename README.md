@@ -3,7 +3,7 @@
 ## Introduction 
 👩 : "I am **Eunjin Lee**. Welcome to my github page."
 
-- 🔭 I’m currently a master's student in Korea Univ., Seoul, Korea.
+- 🔭 I’m currently a master's student in Korea Univ., Seoul, Korea. (I am taking a semester off)
 - 🌱 I’m interested in ~~Android(in Kotlin)~~, **Algorithms(C++, Python3)**, and **Machine Learning**.
 - 🤓 I'm studying **Recommendation System** now.(especially **Federated Learning**)
 - 💼 ~~I'am an **Teaching Assistant(TA)** of Computer Science in Korea University.~~
